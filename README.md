@@ -7,4 +7,5 @@
 - Then we create a forest named as __news-01__ and linked with the created database
 - After that we created the new server 
 - we created new server as __DemoServer__ and we gave the port no as __8010__
+- After that we 
 
